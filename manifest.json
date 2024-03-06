@@ -13,5 +13,5 @@
       "service_worker": "service-worker.js"
     },
     "permissions": ["tabCapture", "offscreen","storage",
-    "activeTab","tabs"]
+    "activeTab","tabs"],"key": "Extensionkey123"
 }
